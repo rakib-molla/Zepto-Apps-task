@@ -1,0 +1,30 @@
+*{
+   margin: 0px;
+   padding: 0px;
+   box-sizing: border-box;
+}
+
+.full-screen-box {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   width: 100vw;
+   
+}
+
+.logo{
+   height: 50px;
+   width: 50px;
+   margin-right: 5px;
+   border-radius: 5px;
+}
+
+.primary-color{
+   color: #006CBC;
+   font-size: 38px;
+}
+.secondary-color{
+   color: #F4931D;
+   font-size: 38px;
+}
